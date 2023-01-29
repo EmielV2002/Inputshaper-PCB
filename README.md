@@ -5,7 +5,7 @@
 Hi, thank you for taking interest in my design!
 In the summer of 2021 I saw the crampon PCB made by annex engineering. It looked like a pretty simple design and I have always been interested in PCB design so I thought this would be a fun beginner project. The result of my adventure can be found on this GitHub page. However, Annex's design probably looks, feels and works better. I have not been able tot test my design yet as well. So proceed with caution!
 
-The link to Annex's product can be found here: [Annex engineering home page](URL "https://annex-engineering.eu/")
+The link to Annex's product can be found here: [Annex engineering home page](https://annex-engineering.eu/)
 Link to their Crampon GitHub page: [Crampon GitHub page](URL "https://github.com/Annex-Engineering/Annex_Engineering_PCBs/tree/master/crampon")
 
 ## Technical details
